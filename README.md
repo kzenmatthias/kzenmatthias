@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kzenmatthias
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning Laravel, Angular, React, Next.js, Drupal Theming
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning to up my skills to expert level in CSS
+- 💞️ I’m looking to collaborate on bigger projects
 - 📫 How to reach me: matthias@ohhert.be
